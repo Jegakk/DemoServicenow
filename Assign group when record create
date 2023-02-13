@@ -1,0 +1,11 @@
+(function executeRule(current, previous /*null when async*/ ) {
+	var value = gs.getProperty('visitor_group');
+	current.u_assignment_group=value;
+	
+	
+ 
+	
+
+
+
+})(current, previous);
